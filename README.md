@@ -356,7 +356,7 @@ gantt
 ## 📊 **GITHUB STATS**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=slot-machine&theme=radical&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?King-luiz=King-luiz&repo=slot-machine&theme=radical&show_owner=true" />
 </p>
 
 ---
